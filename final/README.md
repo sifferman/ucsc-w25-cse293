@@ -20,9 +20,9 @@ Design less complex RTL, but utilize high-speed interfaces such as Ethernet or P
 * For Ethernet, I recommend the Nexys A7 FPGA board.
     * Open source Ethernet implementation: <https://github.com/alexforencich/verilog-ethernet/tree/master/example/NexysVideo/fpga>.
     * Can be controlled with with Python code that sends packets over the Ethernet port
-* For PCIe, I recommend the LiteFury board.
+* For PCIe, I recommend the [Acorn CLE-215+ with LiteX Baseboard](https://enjoy-digital-shop.myshopify.com/products/litex-acorn-baseboard-mini-sqrl-acorn-cle215).
     * Open source PCIe implementation: <https://github.com/alexforencich/verilog-pcie>.
-    * Sample project paired with LiteFury: <https://github.com/RHSResearchLLC/NiteFury-and-LiteFury/tree/master/Sample-Projects/Project-0>
+    * Sample project: <https://github.com/RHSResearchLLC/NiteFury-and-LiteFury/tree/master/Sample-Projects/Project-0>
 
 ### ASIC-Focused Track
 
